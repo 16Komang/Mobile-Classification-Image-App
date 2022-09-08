@@ -1,3 +1,2 @@
-### Kelompok 6
-## Kelas TI-3B 
-
+### Kelas TI-3B 
+## Kelompok 6
